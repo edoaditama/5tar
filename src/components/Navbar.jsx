@@ -1,6 +1,8 @@
+import logo5tar from "../assets/logo.png";
+
 function Navbar() {
   return (
-    <div className="navbar bg-neutral text-neutral-content px-4">
+    <div className="navbar fixed top-0 z-50 shadow-md w-full bg-neutral text-neutral-content px-4">
       {/*  Logo & Hamburger Menu  */}
       <div className="navbar-start">
         <div className="dropdown">
@@ -24,7 +26,7 @@ function Navbar() {
           {/* Menu Dropdown  */}
           <ul
             tabIndex={0}
-            className="menu menu-sm dropdown-content mt-3 z-1 p-2 shadow bg-neutral rounded-box w-52 border border-amber-600  "
+            className="menu dropdown-content mt-3 z-1 p-2 shadow bg-neutral rounded-box w-52 border border-amber-600  "
           >
             <li>
               <a>Home</a>
@@ -40,31 +42,27 @@ function Navbar() {
             </li>
           </ul>
         </div>
-        <a className="btn btn-ghost normal-case text-xl ">Logo</a>
+        <img
+          src={logo5tar}
+          className="h-15 w-auto object-contain"
+          alt="Logo 5TAR"
+        />
       </div>
 
       {/* Navbar Menu) */}
-      <div className="navbar-center  hidden lg:flex">
+      <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1 gap-2 ">
           <li>
-            <a className="btn btn-ghost btn-sm normal-case hover:bg-amber-600">
-              Home
-            </a>
+            <a className="btn btn-ghost hover:bg-amber-600">Home</a>
           </li>
           <li>
-            <a className="btn btn-ghost btn-sm normal-case hover:bg-amber-600">
-              About
-            </a>
+            <a className="btn btn-ghost hover:bg-amber-600">About</a>
           </li>
           <li>
-            <a className="btn btn-ghost btn-sm normal-case hover:bg-amber-600">
-              Gallery
-            </a>
+            <a className="btn btn-ghost  hover:bg-amber-600">Gallery</a>
           </li>
           <li>
-            <a className="btn btn-ghost btn-sm normal-case hover:bg-amber-600">
-              Contact
-            </a>
+            <a className="btn btn-ghost  hover:bg-amber-600">Contact</a>
           </li>
         </ul>
       </div>
