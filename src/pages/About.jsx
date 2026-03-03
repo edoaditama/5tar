@@ -41,7 +41,7 @@ function About() {
         </motion.header>
 
         {/* Main Members  */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 md:gap-8 lg:gap-12 mb-20 w-full max-w-3xl mx-auto justify-items-center px-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 md:gap-8 lg:gap-12 mb-20 w-full max-w-3xl mx-auto justify-items-center px-4 overflow-hidden">
           {mainMembers.map((member, index) => (
             <motion.div
               key={member.id}

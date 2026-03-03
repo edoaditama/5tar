@@ -1,4 +1,5 @@
 import logo5tar from "../assets/logo.png";
+import { Link } from "react-router-dom";
 
 function Navbar() {
   return (
@@ -29,16 +30,13 @@ function Navbar() {
             className="menu dropdown-content mt-3 z-1 p-2 shadow bg-neutral rounded-box w-52 border border-amber-600  "
           >
             <li>
-              <a>Home</a>
+              <Link to="/">Home</Link>
             </li>
             <li>
-              <a>About</a>
+              <Link to="/About">About</Link>
             </li>
             <li>
-              <a>Gallery</a>
-            </li>
-            <li>
-              <a>Contact</a>
+              <Link to="/Gallery">Gallery</Link>
             </li>
           </ul>
         </div>
@@ -53,20 +51,22 @@ function Navbar() {
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1 gap-2 ">
           <li>
-            <a className="btn btn-ghost hover:bg-amber-600">Home</a>
+            <Link to="/" className="btn btn-ghost hover:bg-amber-600">
+              Home
+            </Link>
           </li>
           <li>
-            <a className="btn btn-ghost hover:bg-amber-600">About</a>
+            <Link to="/About" className="btn btn-ghost hover:bg-amber-600">
+              About
+            </Link>
           </li>
           <li>
-            <a className="btn btn-ghost  hover:bg-amber-600">Gallery</a>
-          </li>
-          <li>
-            <a className="btn btn-ghost  hover:bg-amber-600">Contact</a>
+            <Link to="/Gallery" className="btn btn-ghost  hover:bg-amber-600">
+              Gallery
+            </Link>
           </li>
         </ul>
       </div>
-
       {/*Button Login */}
       <div className="navbar-end">
         <a className="btn btn-primary">Login</a>
