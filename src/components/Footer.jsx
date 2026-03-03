@@ -21,7 +21,7 @@ function Footer() {
           <div className="flex items-center justify-center gap-8 text-slate-100">
             {/* Instagram */}
             <a
-              href=""
+              href="#"
               className="hover:text-amber-600  transition-all duration-300 hover:-translate-y-1"
             >
               <FaSquareInstagram size={28} />
@@ -37,7 +37,7 @@ function Footer() {
 
             {/* Youtube */}
             <a
-              href=""
+              href="#"
               className="hover:text-[#FF0000] transition-all duration-300 hover:-translate-y-1"
             >
               <FaYoutube className="text-[30px]" />

@@ -40,7 +40,7 @@ function About() {
           />
         </motion.header>
 
-        {/* Row 1: Main Members  */}
+        {/* Main Members  */}
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 md:gap-8 lg:gap-12 mb-20 w-full max-w-3xl mx-auto justify-items-center px-4">
           {mainMembers.map((member, index) => (
             <motion.div
@@ -59,7 +59,7 @@ function About() {
           ))}
         </div>
 
-        {/* Row 2: Other Members  */}
+        {/* Other Members  */}
         <div className="w-full ">
           <motion.div
             variants={containerVariants}
