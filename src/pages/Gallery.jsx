@@ -19,7 +19,7 @@ function Gallery() {
   };
 
   return (
-    <section className="min-h-screen bg-black text-white py-20 px-4 md:px-8">
+    <section className="min-h-screen bg-black text-white py-25 px-4 md:px-8">
       {/* Header & Title  */}
       <div className="max-w-6xl mx-auto flex flex-col items-center mb-16">
         <h1 className="text-4xl md:text-6xl font-black uppercase italic tracking-tighter">

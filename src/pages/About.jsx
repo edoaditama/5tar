@@ -35,7 +35,7 @@ function About() {
   };
 
   return (
-    <section className="min-h-screen bg-black text-white py-20 px-4 md:px-8 overflow-hidden">
+    <section className="min-h-screen bg-black text-white py-25 px-4 md:px-8 overflow-hidden">
       <div className="max-w-6xl mx-auto flex flex-col items-center">
         {/* Header Section */}
         <header className="text-center mb-16">

@@ -45,7 +45,7 @@ function Footer() {
             </a>
             {/* Instagram */}
             <a
-              href="https://www.instagram.com/edoaditamma/"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-[#d66c15] transition-all duration-300 hover:-translate-y-1"
