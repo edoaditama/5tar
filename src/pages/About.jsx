@@ -5,7 +5,7 @@ import { useState, useMemo } from "react";
 import { FaSearch } from "react-icons/fa";
 
 function About() {
-  const ITEMS_PER_PAGE = 12;
+  const ITEMS_PER_PAGE = 10;
   const [searchTerm, setSearchTerm] = useState("");
   const [visibleCount, setVisibleCount] = useState(ITEMS_PER_PAGE);
 
@@ -81,7 +81,7 @@ function About() {
         {/* Other Members / Search Results */}
         <div className="w-full">
           <h2 className="text-xl font-bold mb-8 text-center uppercase tracking-[0.3em] text-zinc-500">
-            {searchTerm ? `Search Results: ${filteredOtherMembers.length}` : ""}
+            {searchTerm ? `Search Results: ${filteredOtherMembers.length}` : " All Members"}
           </h2>
 
           <motion.div
@@ -122,7 +122,7 @@ function About() {
                 onClick={loadMore}
                 className="btn btn-outline border-amber-600 text-amber-600 hover:bg-amber-600 hover:text-black px-10 rounded-none italic font-bold transition-all duration-300"
               >
-                LOAD MORE ({filteredOtherMembers.length - visibleCount})
+                SHOW MORE ({filteredOtherMembers.length - visibleCount})
               </button>
             </div>
           )}
