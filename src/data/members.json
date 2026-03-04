@@ -141,44 +141,423 @@
   },
   {
     "id": 21,
-    "name": "Man2",
-    "role": "Hood President",
-    "image": "./src/assets/man2.png",
-    "main": false
-  },
-  {
-    "id": 22,
     "name": "Elchi Hua",
     "role": "Hood President",
     "image": "./src/assets/elchi.png",
     "main": false
   },
   {
-    "id": 23,
+    "id": 22,
     "name": "Mie Kamseng",
     "role": "Punisher",
     "image": "./src/assets/opung.png",
     "main": false
   },
   {
-    "id": 24,
+    "id": 23,
     "name": "Sapri Dermen",
     "role": "Punisher",
     "image": "./src/assets/sapri.png",
     "main": false
   },
   {
-    "id": 25,
+    "id": 24,
     "name": "Alea",
     "role": "Member",
     "image": "./src/assets/alea.png",
     "main": false
   },
   {
-    "id": 26,
+    "id": 25,
     "name": "Ajna",
     "role": "Member",
     "image": "./src/assets/ajna.png",
+    "main": false
+  },
+  {
+    "id": 26,
+    "name": "Agy",
+    "role": "Member",
+    "image": "./src/assets/agy.png",
+    "main": false
+  },
+  {
+    "id": 27,
+    "name": "Antonio",
+    "role": "Member",
+    "image": "./src/assets/antonio.png",
+    "main": false
+  },
+  {
+    "id": 28,
+    "name": "Babeh",
+    "role": "Member",
+    "image": "./src/assets/babeh.png",
+    "main": false
+  },
+  {
+    "id": 29,
+    "name": "Betris",
+    "role": "Member",
+    "image": "./src/assets/betris.png",
+    "main": false
+  },
+  {
+    "id": 30,
+    "name": "Bonbon",
+    "role": "Member",
+    "image": "./src/assets/bonbon.png",
+    "main": false
+  },
+  {
+    "id": 31,
+    "name": "Celi",
+    "role": "Member",
+    "image": "./src/assets/celi.png",
+    "main": false
+  },
+  {
+    "id": 32,
+    "name": "Detso",
+    "role": "Member",
+    "image": "./src/assets/detso.png",
+    "main": false
+  },
+  {
+    "id": 33,
+    "name": "Dor",
+    "role": "Member",
+    "image": "./src/assets/dor.png",
+    "main": false
+  },
+  {
+    "id": 34,
+    "name": "Dumm",
+    "role": "Member",
+    "image": "./src/assets/dumm.png",
+    "main": false
+  },
+  {
+    "id": 35,
+    "name": "Elban",
+    "role": "Member",
+    "image": "./src/assets/elban.png",
+    "main": false
+  },
+  {
+    "id": 36,
+    "name": "Encum",
+    "role": "Member",
+    "image": "./src/assets/encum.png",
+    "main": false
+  },
+  {
+    "id": 37,
+    "name": "Engsel",
+    "role": "Member",
+    "image": "./src/assets/engsel.png",
+    "main": false
+  },
+  {
+    "id": 38,
+    "name": "Faraz",
+    "role": "Member",
+    "image": "./src/assets/faraz.png",
+    "main": false
+  },
+  {
+    "id": 39,
+    "name": "Geko",
+    "role": "Member",
+    "image": "./src/assets/geko.png",
+    "main": false
+  },
+  {
+    "id": 40,
+    "name": "Hasbul",
+    "role": "Member",
+    "image": "./src/assets/hasbul.png",
+    "main": false
+  },
+  {
+    "id": 41,
+    "name": "Hideo",
+    "role": "Member",
+    "image": "./src/assets/hideo.png",
+    "main": false
+  },
+  {
+    "id": 42,
+    "name": "Hogan",
+    "role": "Member",
+    "image": "./src/assets/hogan.png",
+    "main": false
+  },
+  {
+    "id": 43,
+    "name": "Ismaya",
+    "role": "Member",
+    "image": "./src/assets/ismaya.png",
+    "main": false
+  },
+  {
+    "id": 44,
+    "name": "Jay",
+    "role": "Member",
+    "image": "./src/assets/jay.png",
+    "main": false
+  },
+  {
+    "id": 45,
+    "name": "Jessica",
+    "role": "Member",
+    "image": "./src/assets/jessica.png",
+    "main": false
+  },
+  {
+    "id": 46,
+    "name": "Kebo",
+    "role": "Member",
+    "image": "./src/assets/kebo.png",
+    "main": false
+  },
+  {
+    "id": 47,
+    "name": "Kenzo",
+    "role": "Member",
+    "image": "./src/assets/kenzo.png",
+    "main": false
+  },
+  {
+    "id": 48,
+    "name": "Kibil",
+    "role": "Member",
+    "image": "./src/assets/kibil.png",
+    "main": false
+  },
+  {
+    "id": 49,
+    "name": "Kokop",
+    "role": "Member",
+    "image": "./src/assets/kokop.png",
+    "main": false
+  },
+  {
+    "id": 50,
+    "name": "Kubil",
+    "role": "Member",
+    "image": "./src/assets/kubil.png",
+    "main": false
+  },
+  {
+    "id": 51,
+    "name": "Leo",
+    "role": "Member",
+    "image": "./src/assets/leo.png",
+    "main": false
+  },
+  {
+    "id": 52,
+    "name": "Loui",
+    "role": "Member",
+    "image": "./src/assets/loui.png",
+    "main": false
+  },
+  {
+    "id": 53,
+    "name": "Maddy",
+    "role": "Member",
+    "image": "./src/assets/maddy.png",
+    "main": false
+  },
+  {
+    "id": 54,
+    "name": "Mayb",
+    "role": "Member",
+    "image": "./src/assets/mayb.png",
+    "main": false
+  },
+  {
+    "id": 55,
+    "name": "Mille",
+    "role": "Member",
+    "image": "./src/assets/mille.png",
+    "main": false
+  },
+  {
+    "id": 56,
+    "name": "Monzi",
+    "role": "Member",
+    "image": "./src/assets/monzi.png",
+    "main": false
+  },
+  {
+    "id": 57,
+    "name": "Morecha",
+    "role": "Member",
+    "image": "./src/assets/morecha.png",
+    "main": false
+  },
+  {
+    "id": 58,
+    "name": "Muller",
+    "role": "Member",
+    "image": "./src/assets/muller.png",
+    "main": false
+  },
+  {
+    "id": 59,
+    "name": "Natan",
+    "role": "Member",
+    "image": "./src/assets/natan.png",
+    "main": false
+  },
+  {
+    "id": 60,
+    "name": "Neon",
+    "role": "Member",
+    "image": "./src/assets/neon.png",
+    "main": false
+  },
+  {
+    "id": 61,
+    "name": "Norah",
+    "role": "Member",
+    "image": "./src/assets/norah.png",
+    "main": false
+  },
+  {
+    "id": 62,
+    "name": "Oces",
+    "role": "Member",
+    "image": "./src/assets/oces.png",
+    "main": false
+  },
+  {
+    "id": 63,
+    "name": "Onet",
+    "role": "Member",
+    "image": "./src/assets/onet.png",
+    "main": false
+  },
+  {
+    "id": 64,
+    "name": "Opet",
+    "role": "Member",
+    "image": "./src/assets/opet.png",
+    "main": false
+  },
+  {
+    "id": 65,
+    "name": "Pakde",
+    "role": "Member",
+    "image": "./src/assets/pakde.png",
+    "main": false
+  },
+  {
+    "id": 66,
+    "name": "Petoy",
+    "role": "Member",
+    "image": "./src/assets/petoy.png",
+    "main": false
+  },
+  {
+    "id": 67,
+    "name": "Pew",
+    "role": "Member",
+    "image": "./src/assets/pew.png",
+    "main": false
+  },
+  {
+    "id": 68,
+    "name": "Ratih",
+    "role": "Member",
+    "image": "./src/assets/ratih.png",
+    "main": false
+  },
+
+  {
+    "id": 69,
+    "name": "Reddy",
+    "role": "Member",
+    "image": "./src/assets/reddy.png",
+    "main": false
+  },
+  {
+    "id": 70,
+    "name": "Rochelle",
+    "role": "Member",
+    "image": "./src/assets/rochelle.png",
+    "main": false
+  },
+  {
+    "id": 71,
+    "name": "Ryan",
+    "role": "Member",
+    "image": "./src/assets/ryan.png",
+    "main": false
+  },
+  {
+    "id": 72,
+    "name": "Sahbira Patricia",
+    "role": "Member",
+    "image": "./src/assets/sabhira.png",
+    "main": false
+  },
+  {
+    "id": 73,
+    "name": "Samcan",
+    "role": "Member",
+    "image": "./src/assets/samcan.png",
+    "main": false
+  },
+  {
+    "id": 74,
+    "name": "Santi",
+    "role": "Member",
+    "image": "./src/assets/santi.png",
+    "main": false
+  },
+  {
+    "id": 75,
+    "name": "Senja",
+    "role": "Member",
+    "image": "./src/assets/senja.png",
+    "main": false
+  },
+  {
+    "id": 76,
+    "name": "Serena",
+    "role": "Member",
+    "image": "./src/assets/serena.png",
+    "main": false
+  },
+  {
+    "id": 77,
+    "name": "Skypot",
+    "role": "Member",
+    "image": "./src/assets/skypot.png",
+    "main": false
+  },
+  {
+    "id": 78,
+    "name": "Syn",
+    "role": "Member",
+    "image": "./src/assets/syn.png",
+    "main": false
+  },
+  {
+    "id": 79,
+    "name": "Taby",
+    "role": "Member",
+    "image": "./src/assets/taby.png",
+    "main": false
+  },
+  {
+    "id": 80,
+    "name": "Topik",
+    "role": "Member",
+    "image": "./src/assets/topik.png",
     "main": false
   }
 ]

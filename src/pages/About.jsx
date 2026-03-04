@@ -5,7 +5,7 @@ import { useState, useMemo } from "react";
 import { FaSearch } from "react-icons/fa";
 
 function About() {
-  const ITEMS_PER_PAGE = 10;
+  const ITEMS_PER_PAGE = 12;
   const [searchTerm, setSearchTerm] = useState("");
   const [visibleCount, setVisibleCount] = useState(ITEMS_PER_PAGE);
 
@@ -86,7 +86,7 @@ function About() {
 
           <motion.div
             layout
-            className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 md:gap-6 justify-items-center"
+            className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 lg:grid-cols-6 gap-4 md:gap-6 justify-items-center"
           >
             <AnimatePresence mode="popLayout">
               {visibleMembers.map((member) => (
