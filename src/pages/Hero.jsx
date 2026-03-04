@@ -9,12 +9,12 @@ function Hero() {
     en: {
       title: "Welcome To 5TAR",
       body: "Gank 5TAR was forged on the unforgiving asphalt, born from five destitute taxi drivers who were fed up with being oppressed by terminal thugs and corporate monopolies. The name 5TAR stands as a symbol for its five founders, who swore to claw their way from the 'lower class' to the absolute pinnacle of power.",
-      button: "Join The Syndicate",
+      button: "Join 5TAR",
     },
     id: {
       title: "Selamat Datang di 5TAR",
       body: "Gank 5TAR lahir dari kerasnya aspal kota, bermula dari lima sopir taksi yang muak ditindas oleh preman terminal dan monopoli perusahaan besar. Nama 5TAR menjadi simbol bagi lima pendiri yang bersumpah untuk mengangkat derajat mereka dari 'kelas bawah' menuju puncak kekuasaan.",
-      button: "Gabung Sindikat",
+      button: "Gabung 5TAR",
     },
   };
 
