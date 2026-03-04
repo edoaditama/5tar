@@ -1,4 +1,9 @@
-import { FaDiscord, FaGithub, FaSquareInstagram, FaYoutube } from "react-icons/fa6";
+import {
+  FaDiscord,
+  FaGithub,
+  FaSquareInstagram,
+  FaYoutube,
+} from "react-icons/fa6";
 
 function Footer() {
   const currentYear = new Date().getFullYear();
@@ -43,7 +48,7 @@ function Footer() {
               href="https://www.instagram.com/edoaditamma/"
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-amber-600  transition-all duration-300 hover:-translate-y-1"
+              className="hover:text-[#d66c15] transition-all duration-300 hover:-translate-y-1"
             >
               <FaSquareInstagram size={28} />
             </a>
@@ -53,7 +58,7 @@ function Footer() {
               href="https://github.com/edoaditama?tab=repositories"
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-[#FF0000] transition-all duration-300 hover:-translate-y-1"
+              className="hover:text-[#f76767] transition-all duration-300 hover:-translate-y-1"
             >
               <FaGithub className="text-[30px]" />
             </a>

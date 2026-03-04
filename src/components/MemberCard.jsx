@@ -16,6 +16,7 @@ export const MemberCard = ({ member, isMain }) => (
         src={member.image}
         alt={member.name}
         className="w-full h-full object-cover"
+        loading="lazy"
       />
     </div>
     <div className="p-3 text-center">
