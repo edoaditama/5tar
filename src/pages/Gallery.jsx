@@ -1,6 +1,6 @@
+import galleryData from "../data/gallery.json";
 import React, { useState, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import galleryData from "../data/gallery.json";
 import { X } from "lucide-react";
 
 function Gallery() {
@@ -20,7 +20,6 @@ function Gallery() {
 
   return (
     <section className="min-h-screen bg-black text-white py-25 px-4 md:px-8">
-      {/* Header & Title  */}
       <div className="max-w-6xl mx-auto flex flex-col items-center mb-16">
         <h1 className="text-4xl md:text-6xl font-black uppercase italic tracking-tighter">
           Gallery <span className="text-amber-600">5TAR</span>
@@ -33,7 +32,6 @@ function Gallery() {
         />
       </div>
 
-      {/* Grid Gallery */}
       <div className="max-w-7xl mx-auto">
         <motion.div
           layout
@@ -62,7 +60,6 @@ function Gallery() {
           </AnimatePresence>
         </motion.div>
 
-        {/* Button Load More */}
         {visibleCount < galleryData.length && (
           <div className="flex justify-center mt-12">
             <button
@@ -75,7 +72,6 @@ function Gallery() {
         )}
       </div>
 
-      {/* Lightbox  */}
       <AnimatePresence>
         {selectedImg && (
           <motion.div
@@ -87,7 +83,7 @@ function Gallery() {
           >
             <motion.img
               layoutId={`img-${selectedImg.id}`}
-              src={selectedImg.src}
+              src={selectedImg.src} 
               className="max-w-full max-h-[85vh] rounded-lg shadow-2xl object-contain border-2 border-amber-600/20"
             />
             <button className="absolute top-6 right-6 text-white">
