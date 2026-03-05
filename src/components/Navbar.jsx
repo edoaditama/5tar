@@ -30,7 +30,7 @@ function Navbar() {
             className="menu dropdown-content mt-3 z-1 p-2 shadow bg-neutral rounded-box w-52 border border-amber-600  "
           >
             <li>
-              <Link to="/">Home</Link>
+              <Link to="/Hero">Home</Link>
             </li>
             <li>
               <Link to="/About">About</Link>

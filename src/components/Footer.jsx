@@ -19,9 +19,9 @@ function Footer() {
               <span className="text-slate-100 font-bold cursor-pointer hover:text-amber-500 transition-colors duration-300">
                 5TAR
               </span>
-              . All Rights Reserved
+              . All Rights Reserved.
             </p>
-            <p style={{ opacity: 0.7 }}>
+            <p style={{ opacity: 0.5 }}>
               Created by{" "}
               <a
                 href="https://www.instagram.com/edoaditamma/"

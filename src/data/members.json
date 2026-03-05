@@ -141,7 +141,7 @@
   },
   {
     "id": 21,
-    "name": "Elchi Hua",
+    "name": "Elchi",
     "role": "Hood President",
     "image": "./src/assets/elchi.png",
     "main": false
@@ -162,35 +162,35 @@
   },
   {
     "id": 24,
-    "name": "Alea",
+    "name": "Alea Nameera",
     "role": "Member",
     "image": "./src/assets/alea.png",
     "main": false
   },
   {
     "id": 25,
-    "name": "Ajna",
+    "name": " Inglago Ajna",
     "role": "Member",
     "image": "./src/assets/ajna.png",
     "main": false
   },
   {
     "id": 26,
-    "name": "Agy",
+    "name": "Agy Bucky",
     "role": "Member",
     "image": "./src/assets/agy.png",
     "main": false
   },
   {
     "id": 27,
-    "name": "Antonio",
+    "name": "Antonio Lorenzetti",
     "role": "Member",
     "image": "./src/assets/antonio.png",
     "main": false
   },
   {
     "id": 28,
-    "name": "Babeh",
+    "name": "Opik Suruh",
     "role": "Member",
     "image": "./src/assets/babeh.png",
     "main": false
@@ -211,35 +211,35 @@
   },
   {
     "id": 31,
-    "name": "Celi",
+    "name": "Celi Elstone",
     "role": "Member",
     "image": "./src/assets/celi.png",
     "main": false
   },
   {
     "id": 32,
-    "name": "Detso",
+    "name": "Detso Kripi",
     "role": "Member",
     "image": "./src/assets/detso.png",
     "main": false
   },
   {
     "id": 33,
-    "name": "Dor",
+    "name": "Dor Belvilaqua",
     "role": "Member",
     "image": "./src/assets/dor.png",
     "main": false
   },
   {
     "id": 34,
-    "name": "Dumm",
+    "name": "Gan Dumm",
     "role": "Member",
     "image": "./src/assets/dumm.png",
     "main": false
   },
   {
     "id": 35,
-    "name": "Elban",
+    "name": "Elban Jerry",
     "role": "Member",
     "image": "./src/assets/elban.png",
     "main": false
@@ -253,14 +253,14 @@
   },
   {
     "id": 37,
-    "name": "Engsel",
+    "name": "Swara Engsel",
     "role": "Member",
     "image": "./src/assets/engsel.png",
     "main": false
   },
   {
     "id": 38,
-    "name": "Faraz",
+    "name": "Farraz",
     "role": "Member",
     "image": "./src/assets/faraz.png",
     "main": false
@@ -281,7 +281,7 @@
   },
   {
     "id": 41,
-    "name": "Hideo",
+    "name": "Hideo Own",
     "role": "Member",
     "image": "./src/assets/hideo.png",
     "main": false
@@ -302,7 +302,7 @@
   },
   {
     "id": 44,
-    "name": "Jay",
+    "name": "Jay Smith",
     "role": "Member",
     "image": "./src/assets/jay.png",
     "main": false
@@ -330,14 +330,14 @@
   },
   {
     "id": 48,
-    "name": "Kibil",
+    "name": "Kibil Slamet Kalsium",
     "role": "Member",
     "image": "./src/assets/kibil.png",
     "main": false
   },
   {
     "id": 49,
-    "name": "Kokop",
+    "name": "Vponk Kokop",
     "role": "Member",
     "image": "./src/assets/kokop.png",
     "main": false
@@ -351,14 +351,14 @@
   },
   {
     "id": 51,
-    "name": "Leo",
+    "name": "Leo Guntara",
     "role": "Member",
     "image": "./src/assets/leo.png",
     "main": false
   },
   {
     "id": 52,
-    "name": "Loui",
+    "name": "Louie Lopez",
     "role": "Member",
     "image": "./src/assets/loui.png",
     "main": false
@@ -372,21 +372,21 @@
   },
   {
     "id": 54,
-    "name": "Mayb",
+    "name": "May Bevilaqua",
     "role": "Member",
     "image": "./src/assets/mayb.png",
     "main": false
   },
   {
     "id": 55,
-    "name": "Mille",
+    "name": "Mille Heaven",
     "role": "Member",
     "image": "./src/assets/mille.png",
     "main": false
   },
   {
     "id": 56,
-    "name": "Monzi",
+    "name": "Monzy Smirnovv",
     "role": "Member",
     "image": "./src/assets/monzi.png",
     "main": false
@@ -400,7 +400,7 @@
   },
   {
     "id": 58,
-    "name": "Muller",
+    "name": "Muller Laurent",
     "role": "Member",
     "image": "./src/assets/muller.png",
     "main": false
@@ -421,7 +421,7 @@
   },
   {
     "id": 61,
-    "name": "Norah",
+    "name": "Nora Josephine",
     "role": "Member",
     "image": "./src/assets/norah.png",
     "main": false
@@ -435,7 +435,7 @@
   },
   {
     "id": 63,
-    "name": "Onet",
+    "name": "Onet Elstone",
     "role": "Member",
     "image": "./src/assets/onet.png",
     "main": false
@@ -449,7 +449,7 @@
   },
   {
     "id": 65,
-    "name": "Pakde",
+    "name": "Pakde Monte",
     "role": "Member",
     "image": "./src/assets/pakde.png",
     "main": false
@@ -463,14 +463,14 @@
   },
   {
     "id": 67,
-    "name": "Pew",
+    "name": "Ciao Pew",
     "role": "Member",
     "image": "./src/assets/pew.png",
     "main": false
   },
   {
     "id": 68,
-    "name": "Ratih",
+    "name": "Ratih Cainey",
     "role": "Member",
     "image": "./src/assets/ratih.png",
     "main": false
@@ -478,7 +478,7 @@
 
   {
     "id": 69,
-    "name": "Reddy",
+    "name": "Xavier Red",
     "role": "Member",
     "image": "./src/assets/reddy.png",
     "main": false
@@ -506,7 +506,7 @@
   },
   {
     "id": 73,
-    "name": "Samcan",
+    "name": "Sam Can",
     "role": "Member",
     "image": "./src/assets/samcan.png",
     "main": false
@@ -520,21 +520,21 @@
   },
   {
     "id": 75,
-    "name": "Senja",
+    "name": "Senja Riantara",
     "role": "Member",
     "image": "./src/assets/senja.png",
     "main": false
   },
   {
     "id": 76,
-    "name": "Serena",
+    "name": "Serena Elysia",
     "role": "Member",
     "image": "./src/assets/serena.png",
     "main": false
   },
   {
     "id": 77,
-    "name": "Skypot",
+    "name": "Skypot Domany",
     "role": "Member",
     "image": "./src/assets/skypot.png",
     "main": false
@@ -548,14 +548,14 @@
   },
   {
     "id": 79,
-    "name": "Taby",
+    "name": "Tabitut",
     "role": "Member",
     "image": "./src/assets/taby.png",
     "main": false
   },
   {
     "id": 80,
-    "name": "Topik",
+    "name": "Top Pick Tengurta",
     "role": "Member",
     "image": "./src/assets/topik.png",
     "main": false
