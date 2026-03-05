@@ -1,9 +1,4 @@
-import {
-  FaDiscord,
-  FaGithub,
-  FaSquareInstagram,
-  FaYoutube,
-} from "react-icons/fa6";
+import { FaDiscord, FaGithub, FaInstagram } from "react-icons/fa6";
 
 function Footer() {
   const currentYear = new Date().getFullYear();
@@ -21,12 +16,13 @@ function Footer() {
               </span>
               . All Rights Reserved.
             </p>
-            <p style={{ opacity: 0.5 }}>
+            <p className="opacity-60 mt-2 text-sm">
               Created by{" "}
               <a
                 href="https://www.instagram.com/edoaditamma/"
                 target="_blank"
                 rel="noopener noreferrer"
+                className="text-slate-200 hover:text-amber-500 font-medium transition-all duration-300"
               >
                 edoaditama
               </a>
@@ -39,6 +35,7 @@ function Footer() {
               href="https://discord.gg/VK3RTs6k"
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="Join our Discord community"
               className="hover:text-[#5865F2] transition-all duration-300 hover:-translate-y-1"
             >
               <FaDiscord size={28} />
@@ -48,9 +45,10 @@ function Footer() {
               href="#"
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-[#d66c15] transition-all duration-300 hover:-translate-y-1"
+              aria-label="Follow on Instagram"
+              className="hover:text-[#E4405F] transition-all duration-300 hover:-translate-y-1"
             >
-              <FaSquareInstagram size={28} />
+              <FaInstagram size={28} />
             </a>
 
             {/* Github */}
@@ -58,9 +56,10 @@ function Footer() {
               href="https://github.com/edoaditama?tab=repositories"
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-[#f76767] transition-all duration-300 hover:-translate-y-1"
+              aria-label="View projects on GitHub"
+              className="hover:text-white transition-all duration-300 hover:-translate-y-1"
             >
-              <FaGithub className="text-[30px]" />
+              <FaGithub size={28} />
             </a>
           </div>
         </div>
