@@ -10,5 +10,21 @@
   { "id": 9, "src": "/gallery/9.png", "alt": "image 9" },
   { "id": 10, "src": "/gallery/10.jpg", "alt": "image 10" },
   { "id": 11, "src": "/gallery/11.png", "alt": "image 11" },
-  { "id": 12, "src": "/gallery/12.png", "alt": "image 12" }
+  { "id": 12, "src": "/gallery/12.png", "alt": "image 12" },
+  { "id": 13, "src": "/gallery/13.png", "alt": "image 13" },
+  { "id": 14, "src": "/gallery/14.jpg", "alt": "image 14" },
+  { "id": 15, "src": "/gallery/15.png", "alt": "image 15" },
+  { "id": 16, "src": "/gallery/16.png", "alt": "image 16" },
+  { "id": 17, "src": "/gallery/17.png", "alt": "image 17" },
+  { "id": 18, "src": "/gallery/18.png", "alt": "image 18" },
+  { "id": 19, "src": "/gallery/19.png", "alt": "image 19" },
+  { "id": 20, "src": "/gallery/20.png", "alt": "image 20" },
+  { "id": 21, "src": "/gallery/21.png", "alt": "image 21" },
+  { "id": 22, "src": "/gallery/22.png", "alt": "image 22" },
+  { "id": 23, "src": "/gallery/23.png", "alt": "image 23" },
+  { "id": 24, "src": "/gallery/24.jpg", "alt": "image 24" },
+  { "id": 25, "src": "/gallery/25.jpg", "alt": "image 25" },
+  { "id": 26, "src": "/gallery/26.png", "alt": "image 26" },
+  { "id": 27, "src": "/gallery/27.png", "alt": "image 27" },
+  { "id": 28, "src": "/gallery/28.png", "alt": "image 28" }
 ]
