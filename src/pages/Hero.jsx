@@ -8,12 +8,12 @@ function Hero() {
   const content = {
     en: {
       title: "Welcome To 5TAR",
-      body: "Gank 5TAR was forged on the unforgiving asphalt, born from five destitute taxi drivers who were fed up with being oppressed by terminal thugs and corporate monopolies. The name 5TAR stands as a symbol for its five founders, who swore to claw their way from the 'lower class' to the absolute pinnacle of power.",
+      body: 'Starting as five taxi drivers battling poverty and economic strain, Gank 5TAR evolved from a simple support group for their fellow drivers into an ambitious criminal syndicate. The solidarity forged behind the wheel became a potent weapon as they leveraged their street smarts and access to information to delve into the criminal underworld—everything from smuggling to contract killings.\n\nToday, they have transformed into a cunning and highly organized mafia. Driven by a deep-seated resentment against the system that marginalized them, Gank 5TAR aims to rule the city from the shadows, proving that even the "lower class" is capable of seizing ultimate controll.',
       button: "Join 5TAR",
     },
     id: {
       title: "Selamat Datang di 5TAR",
-      body: "Gank 5TAR lahir dari kerasnya aspal kota, bermula dari lima sopir taksi yang muak ditindas oleh preman terminal dan monopoli perusahaan besar. Nama 5TAR menjadi simbol bagi lima pendiri yang bersumpah untuk mengangkat derajat mereka dari 'kelas bawah' menuju puncak kekuasaan.",
+      body: 'Bermula dari lima sopir taksi yang berjuang melawan kemiskinan dan tekanan ekonomi, Gank 5TAR tumbuh dari sekadar kelompok pelindung sesama sopir menjadi sindikat kriminal yang ambisius. Solidaritas di balik kemudi berubah menjadi kekuatan saat mereka memanfaatkan akses jalanan dan informasi untuk merambah dunia gelap—mulai dari penyelundupan hingga pembunuhan bayaran.\n\nKini, mereka bertransformasi menjadi organisasi mafia yang licik dan terorganisir. Didorong oleh rasa dendam terhadap sistem yang meminggirkan mereka, Gank 5TAR bertujuan menguasai kota dari bayang-bayang sebagai bentuk pembuktian bahwa "kelas bawah" pun mampu memegang kendali tertinggi.',
       button: "Gabung 5TAR",
     },
   };
